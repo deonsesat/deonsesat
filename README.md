@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deonsesat
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning css_now+
+- 🌱 I’m currently learning css{now}
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
